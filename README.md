@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/yorbyEscalona/yorbyEscalona/main/ChatGPT%20Image%207%20may%202025%2C%2012_49_35%20a.m..png" width="60" /> Hola, mi nombre es Yorby Escalona 👋
+# <img src="https://raw.githubusercontent.com/yorbyEscalona/yorbyEscalona/main/miniatura.png" width="150" /> Hola, mi nombre es Yorby Escalona 👋
 ### Desarrollador De Software 
+![Banner](https://raw.githubusercontent.com/yorbyEscalona/yorbyEscalona/main/Presentaci%C3%B3n%20T%C3%A9cnica%20C%C3%B3digo%20Programaci%C3%B3n%20Minimalista%20Gris%20(1280%20x%20640%20px)%20(1).jpg)
 
-![Banner](https://raw.githubusercontent.com/yorbyEscalona/yorbyEscalona/main/Presentaci%C3%B3n%20T%C3%A9cnica%20C%C3%B3digo%20Programaci%C3%B3n%20Minimalista%20Gris%20(1280%20x%20640%20px).jpg)
 
 Tengo 27 años, soy venezolano y actualmente vivo en Bogotá, Colombia. Aunque mi camino profesional comenzó en áreas como el diseño gráfico, el filmmaking y el community management, desde hace un tiempo decidí enfocarme en lo que realmente me apasiona: **el desarrollo web**.
 
