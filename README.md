@@ -1,15 +1,33 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Yorby Escalona 👋
+# <img src="https://raw.githubusercontent.com/yorbyEscalona/yorbyEscalona/main/ChatGPT%20Image%207%20may%202025%2C%2012_49_35%20a.m..png" width="60" /> Hola, mi nombre es Yorby Escalona 👋
 ### Desarrollador De Software 
 
-Soy ingeniero de software profesional desde 2010.
+![Banner](https://raw.githubusercontent.com/yorbyEscalona/yorbyEscalona/main/Presentaci%C3%B3n%20T%C3%A9cnica%20C%C3%B3digo%20Programaci%C3%B3n%20Minimalista%20Gris%20(1280%20x%20640%20px).jpg)
 
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
+Tengo 27 años, soy venezolano y actualmente vivo en Bogotá, Colombia. Aunque mi camino profesional comenzó en áreas como el diseño gráfico, el filmmaking y el community management, desde hace un tiempo decidí enfocarme en lo que realmente me apasiona: **el desarrollo web**.
 
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+Me estoy formando como desarrollador de forma autodidacta, complementando mi aprendizaje con cursos de la Universidad Politécnica y proyectos personales. Disfruto crear desde cero, entender cómo funcionan las cosas por dentro y tener el poder de **diseñar mi propio mundo digital** con tecnologías como:
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
+### 🛠️ Tecnologías que manejo actualmente:
+- 🌐 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+- 🎨 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+- ⚙️ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+- ☕ ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
+
+---
+
+Más que enseñar, me motiva aprender constantemente, crecer en comunidad y algún día liderar proyectos que transformen ideas en realidades digitales. Siempre estoy abierto a nuevos conocimientos y desafíos. Soy alguien que **escucha, analiza y ejecuta**.
+
+> 💡 *“Si puedes imaginarlo, puedes programarlo.”*
+
+---
+
+### 📌 ¿Qué estoy haciendo ahora?
+- 📚 Formándome como desarrollador web
+- 🧪 Experimentando con pequeños proyectos personales
+- 🛠️ Construyendo mi perfil profesional en GitHub
+
+---
+
 
 ## Encuéntrame en:
 
